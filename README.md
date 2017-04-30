@@ -5,7 +5,7 @@
  * Font Awesome 4
 
 ### Demo page
-http://nataliavolik.github.io/simple-photographer-landingpage/
+http://nataliavolik.github.io/photographer-landingpage/
 
 ### Screenshot
 ![screenshot](design/screenshot.png)
